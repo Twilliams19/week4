@@ -1,0 +1,13 @@
+h1 {
+    font-size: 34px;
+    color: #aaa;
+    font-weight: bold;
+    margin: 30px;
+}
+
+h1:hover {
+    color: #000;
+}
+body{
+    background-color: forestgreen;
+}
